@@ -1,0 +1,139 @@
+:root {
+  /* 暖色主色 — 番茄红，比纯红更柔和 */
+  --theme-primary: #D84339;
+  --theme-primary-light: #EF6B62;
+  --theme-primary-dark: #B8322A;
+  --theme-primary-pale: #FFF3F2;
+  --theme-primary-soft: #FFE8E6;
+
+  /* 侧栏 — 浅色清爽风格 */
+  --theme-sidebar: #FFFFFF;
+  --theme-sidebar-text: #7A716F;
+  --theme-sidebar-active-text: #D84339;
+  --theme-sidebar-hover: #FAF8F7;
+
+  /* 页面背景与文字 */
+  --theme-bg: #F5F3F2;
+  --theme-surface: #FFFFFF;
+  --theme-text: #2C2423;
+  --theme-text-secondary: #9A908D;
+  --theme-border: #EDE8E6;
+
+  /* Element Plus 主题同步 */
+  --el-color-primary: #D84339;
+  --el-color-primary-light-3: #EF6B62;
+  --el-color-primary-light-5: #F49790;
+  --el-color-primary-light-7: #FAC5C1;
+  --el-color-primary-light-8: #FCD9D6;
+  --el-color-primary-light-9: #FFF3F2;
+  --el-color-primary-dark-2: #B8322A;
+
+  --el-color-success: #4a8c5c;
+  --el-color-danger: #B8322A;
+  --el-color-warning: #E07A3A;
+
+  --el-border-radius-base: 8px;
+  --el-bg-color: #F5F3F2;
+  --el-bg-color-page: #F5F3F2;
+}
+
+body {
+  margin: 0;
+  font-family: 'PingFang SC', 'Microsoft YaHei', sans-serif;
+  background: var(--theme-bg);
+  color: var(--theme-text);
+}
+
+/* 页面内筛选栏 */
+.filter-bar,
+.search-bar {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  flex-wrap: wrap;
+  margin-bottom: 16px;
+  padding: 14px 18px;
+  background: var(--theme-surface);
+  border: 1px solid var(--theme-border);
+  border-radius: 10px;
+}
+
+/* 卡片页头 */
+.card-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.header-title {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  font-size: 16px;
+  font-weight: 600;
+  color: var(--theme-text);
+}
+
+.main-card {
+  border-radius: 12px;
+  border: 1px solid var(--theme-border);
+  box-shadow: 0 1px 4px rgba(44, 36, 35, 0.05);
+}
+
+.main-card > .el-card__header {
+  border-bottom: 1px solid var(--theme-border);
+  background: var(--theme-surface);
+}
+
+/* Element Plus 表格统一样式 */
+.el-table {
+  --el-table-border-color: var(--theme-border);
+  --el-table-header-bg-color: #FAF8F7;
+  --el-table-header-text-color: var(--theme-text-secondary);
+  --el-table-text-color: var(--theme-text);
+  --el-table-row-hover-bg-color: var(--theme-primary-pale);
+}
+
+.el-table th.el-table__cell {
+  background-color: var(--el-table-header-bg-color) !important;
+  color: var(--el-table-header-text-color);
+  font-weight: 600;
+}
+
+/* 全局抽屉样式 */
+.form-drawer .el-drawer__header {
+  margin-bottom: 0;
+  padding: 18px 24px 14px;
+  border-bottom: 1px solid var(--theme-border);
+  color: var(--theme-text);
+}
+
+.form-drawer .el-drawer__title {
+  font-size: 16px;
+  font-weight: 600;
+}
+
+.form-drawer .el-drawer__body {
+  padding: 0;
+  display: flex;
+  flex-direction: column;
+}
+
+.form-drawer .drawer-body {
+  flex: 1;
+  padding: 20px 24px;
+  overflow-y: auto;
+}
+
+.form-drawer .el-drawer__footer {
+  padding: 0;
+  border-top: 1px solid var(--theme-border);
+  background: #FAF8F7;
+}
+
+.form-drawer .drawer-footer {
+  display: flex;
+  justify-content: flex-end;
+  gap: 12px;
+  padding: 14px 24px;
+}
