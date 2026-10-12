@@ -18,7 +18,7 @@
 | 管理员 | PC后台 |
 
 
-![功能模块图](https://code-graden-server-dev.oss-cn-beijing.aliyuncs.com/azhou_promotion/img/module_structure/func_module_ea6df03c312d4425b57101f9196be582.png)
+![功能模块图](docs/images/01-func-module.png)
 
 
 ## 三、技术栈说明
@@ -53,63 +53,63 @@
 
 注册页：创建用户账号，注册后可收藏菜谱、发布评论
 
-![注册页：创建用户账号，注册后可收藏菜谱、发布评论](https://code-graden-server-dev.oss-cn-beijing.aliyuncs.com/2026-08-26/a35f0211-1216-4f46-8d61-2c7641e5be8a.png)
+![注册页：创建用户账号，注册后可收藏菜谱、发布评论](docs/images/02-zhu-ce.png)
 
 登录页：用户输入账号密码登录，享受个性化菜谱推荐
 
-![登录页：用户输入账号密码登录，享受个性化菜谱推荐](https://code-graden-server-dev.oss-cn-beijing.aliyuncs.com/2026-08-26/7f2e1fe4-1af8-4ef7-8bc5-00d221b745d0.png)
+![登录页：用户输入账号密码登录，享受个性化菜谱推荐](docs/images/03-deng-lu.png)
 
 首页：展示推荐菜谱，为用户推荐合适美食
 
-![首页：展示推荐菜谱，为用户推荐合适美食](https://code-graden-server-dev.oss-cn-beijing.aliyuncs.com/2026-08-26/62143b02-0f8a-40fd-895b-1712831c33ce.png)
+![首页：展示推荐菜谱，为用户推荐合适美食](docs/images/04-shou-ye.png)
 
 菜谱列表页：按条件筛选菜谱，展示对应菜谱列表
 
-![菜谱列表页：按条件筛选菜谱，展示对应菜谱列表](https://code-graden-server-dev.oss-cn-beijing.aliyuncs.com/2026-08-26/814a0c9f-caf8-4f50-8171-c4b5bdc18f03.png)
+![菜谱列表页：按条件筛选菜谱，展示对应菜谱列表](docs/images/05-cai-pu-lie-biao.png)
 
 菜谱详情页：展示鸡胸肉沙拉菜谱的详细信息
 
-![菜谱详情页：展示鸡胸肉沙拉菜谱的详细信息](https://code-graden-server-dev.oss-cn-beijing.aliyuncs.com/2026-08-26/b98d700b-4e7b-41b5-8e6a-53a62e721574.png)
+![菜谱详情页：展示鸡胸肉沙拉菜谱的详细信息](docs/images/06-cai-pu-xiang-qing.png)
 
 菜谱详情页：展示鸡胸肉沙拉的制作方法和相关小贴士
 
-![菜谱详情页：展示鸡胸肉沙拉的制作方法和相关小贴士](https://code-graden-server-dev.oss-cn-beijing.aliyuncs.com/2026-08-26/40bec3fb-17de-4629-8c94-7f445974aa24.png)
+![菜谱详情页：展示鸡胸肉沙拉的制作方法和相关小贴士](docs/images/07-cai-pu-xiang-qing.png)
 
 菜谱详情页：展示鸡胸肉沙拉菜谱下的用户评论
 
-![菜谱详情页：展示鸡胸肉沙拉菜谱下的用户评论](https://code-graden-server-dev.oss-cn-beijing.aliyuncs.com/2026-08-26/4b7c8f5f-cd7c-4c33-8979-25dce63926c8.png)
+![菜谱详情页：展示鸡胸肉沙拉菜谱下的用户评论](docs/images/08-cai-pu-xiang-qing.png)
 
 AI美食推荐页：根据用户饮食需求，推荐符合要求的菜品菜谱
 
-![AI美食推荐页：根据用户饮食需求，推荐符合要求的菜品菜谱](https://code-graden-server-dev.oss-cn-beijing.aliyuncs.com/2026-08-26/103cdca0-5630-45d8-875e-369dc3b9bcd4.png)
+![AI美食推荐页：根据用户饮食需求，推荐符合要求的菜品菜谱](docs/images/09-ai-mei-shi-tui-jian.png)
 
 个人中心页：展示个人功能入口，可设置个人口味偏好
 
-![个人中心页：展示个人功能入口，可设置个人口味偏好](https://code-graden-server-dev.oss-cn-beijing.aliyuncs.com/2026-08-26/f856522a-df57-4de1-8f6d-5310b0e13d15.png)
+![个人中心页：展示个人功能入口，可设置个人口味偏好](docs/images/10-ge-ren-zhong-xin.png)
 
 个人中心：修改用户个人信息，修改后可保存更新资料
 
-![个人中心：修改用户个人信息，修改后可保存更新资料](https://code-graden-server-dev.oss-cn-beijing.aliyuncs.com/2026-08-26/2882b725-3ce8-4de1-8aa5-a587ad0ccc2b.png)
+![个人中心：修改用户个人信息，修改后可保存更新资料](docs/images/11-ge-ren-zhong-xin.png)
 
 我的菜谱页：查看管理个人发布的菜谱，支持新增菜谱
 
-![我的菜谱页：查看管理个人发布的菜谱，支持新增菜谱](https://code-graden-server-dev.oss-cn-beijing.aliyuncs.com/2026-08-26/b7b1727b-8264-41b0-8bd5-74e84dcf9835.png)
+![我的菜谱页：查看管理个人发布的菜谱，支持新增菜谱](docs/images/12-wo-de-cai-pu.png)
 
 新增菜谱页：填写菜谱信息，提交新增个人菜谱
 
-![新增菜谱页：填写菜谱信息，提交新增个人菜谱](https://code-graden-server-dev.oss-cn-beijing.aliyuncs.com/2026-08-26/b4e3f618-470b-471b-8629-6e2579d5db48.png)
+![新增菜谱页：填写菜谱信息，提交新增个人菜谱](docs/images/13-xin-zeng-cai-pu.png)
 
 新增菜谱页：填写菜谱信息，提交新增个人菜谱
 
-![新增菜谱页：填写菜谱信息，提交新增个人菜谱](https://code-graden-server-dev.oss-cn-beijing.aliyuncs.com/2026-08-26/48f0f85e-897a-4e44-8772-1baf20772ee3.png)
+![新增菜谱页：填写菜谱信息，提交新增个人菜谱](docs/images/14-xin-zeng-cai-pu.png)
 
 我的收藏页：展示用户收藏的菜谱，支持搜索收藏菜谱
 
-![我的收藏页：展示用户收藏的菜谱，支持搜索收藏菜谱](https://code-graden-server-dev.oss-cn-beijing.aliyuncs.com/2026-08-26/3855f630-6dfd-4c54-86e7-1d17c3dc83a1.png)
+![我的收藏页：展示用户收藏的菜谱，支持搜索收藏菜谱](docs/images/15-wo-de-shou-cang.png)
 
 我的评论页：展示用户本人发布在对应菜谱下的评论
 
-![我的评论页：展示用户本人发布在对应菜谱下的评论](https://code-graden-server-dev.oss-cn-beijing.aliyuncs.com/2026-08-26/69215347-1a05-4a3b-8d2a-5c3b760ebdc2.png)
+![我的评论页：展示用户本人发布在对应菜谱下的评论](docs/images/16-wo-de-ping-lun.png)
 
 
 ### PC后台端
@@ -131,43 +131,43 @@ AI美食推荐页：根据用户饮食需求，推荐符合要求的菜品菜谱
 
 登录页：输入信息验证身份，登录今日食单管理后台
 
-![登录页：输入信息验证身份，登录今日食单管理后台](https://code-graden-server-dev.oss-cn-beijing.aliyuncs.com/2026-08-26/639cc6c0-7718-4be2-8eea-8cf3ff44bd22.png)
+![登录页：输入信息验证身份，登录今日食单管理后台](docs/images/17-deng-lu.png)
 
 数据看板：展示平台菜谱统计数据与热门菜谱相关信息
 
-![数据看板：展示平台菜谱统计数据与热门菜谱相关信息](https://code-graden-server-dev.oss-cn-beijing.aliyuncs.com/2026-08-26/b4827e9f-e94e-4691-8423-c0c184366b7e.png)
+![数据看板：展示平台菜谱统计数据与热门菜谱相关信息](docs/images/18-shu-ju-kan-ban.png)
 
 数据看板：展示今日食单平台运营数据的统计概览
 
-![数据看板：展示今日食单平台运营数据的统计概览](https://code-graden-server-dev.oss-cn-beijing.aliyuncs.com/2026-08-26/46a584b6-6a05-4b87-89d8-d4c29ba72e0b.png)
+![数据看板：展示今日食单平台运营数据的统计概览](docs/images/19-shu-ju-kan-ban.png)
 
 用户管理页：查看平台用户信息，可查询禁用用户账号
 
-![用户管理页：查看平台用户信息，可查询禁用用户账号](https://code-graden-server-dev.oss-cn-beijing.aliyuncs.com/2026-08-26/6a1f9df5-b192-45ff-824a-6c1a9b79cc23.png)
+![用户管理页：查看平台用户信息，可查询禁用用户账号](docs/images/20-yong-hu-guan-li.png)
 
 菜谱管理页：展示菜谱列表，支持对菜谱做增删改查操作
 
-![菜谱管理页：展示菜谱列表，支持对菜谱做增删改查操作](https://code-graden-server-dev.oss-cn-beijing.aliyuncs.com/2026-08-26/9a68bb10-79ec-4713-8640-5c8d1f0c89ee.png)
+![菜谱管理页：展示菜谱列表，支持对菜谱做增删改查操作](docs/images/21-cai-pu-guan-li.png)
 
 菜谱管理：编辑菜谱的基础信息与制作步骤
 
-![菜谱管理：编辑菜谱的基础信息与制作步骤](https://code-graden-server-dev.oss-cn-beijing.aliyuncs.com/2026-08-26/ca83dd4c-4308-46df-82f4-a8cda74d6be8.png)
+![菜谱管理：编辑菜谱的基础信息与制作步骤](docs/images/22-cai-pu-guan-li.png)
 
 菜谱审核页：统计各状态菜谱数量，审核待审核菜谱
 
-![菜谱审核页：统计各状态菜谱数量，审核待审核菜谱](https://code-graden-server-dev.oss-cn-beijing.aliyuncs.com/2026-08-26/7bfc4521-8043-4132-8b0d-0b868dfed57a.png)
+![菜谱审核页：统计各状态菜谱数量，审核待审核菜谱](docs/images/23-cai-pu-shen-he.png)
 
 分类管理页：管理菜谱各类分类，支持增删改操作
 
-![分类管理页：管理菜谱各类分类，支持增删改操作](https://code-graden-server-dev.oss-cn-beijing.aliyuncs.com/2026-08-26/a8ee79e5-2461-4b96-8036-d79a11f9afe0.png)
+![分类管理页：管理菜谱各类分类，支持增删改操作](docs/images/24-fen-lei-guan-li.png)
 
 食材管理：管理员对平台食材进行查询、增删改管理
 
-![食材管理：管理员对平台食材进行查询、增删改管理](https://code-graden-server-dev.oss-cn-beijing.aliyuncs.com/2026-08-26/dce75b6a-aa0f-40fe-801a-fb125623be65.png)
+![食材管理：管理员对平台食材进行查询、增删改管理](docs/images/25-shi-cai-guan-li.png)
 
 轮播图管理页：管理平台轮播图，支持新增、编辑、删除操作
 
-![轮播图管理页：管理平台轮播图，支持新增、编辑、删除操作](https://code-graden-server-dev.oss-cn-beijing.aliyuncs.com/2026-08-26/619c7b13-bbf2-4f43-87db-3689d2ba4613.png)
+![轮播图管理页：管理平台轮播图，支持新增、编辑、删除操作](docs/images/26-lun-bo-tu-guan-li.png)
 
 
 ## 五、主要业务流程
